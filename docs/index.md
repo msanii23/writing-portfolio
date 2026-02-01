@@ -1,9 +1,14 @@
 # Misa Sanii — Writing Portfolio
 
+---
+
 I am a technical writer and storyteller with experience documenting **cloud products, distributed systems, APIs, and regulated engineering environments**.  
 I also create **fiction and narrative work** exploring moral ambiguity, psychological tension, and shifting power dynamics. My work bridges clarity, precision, and voice—whether in technical systems or storytelling.
 
+---
+
 ## Selected Writing Products
+...
 
 - [API Documentation](api-writing.md) — developer-facing API documentation emphasizing clarity and usability
 - [Systems & Distributed Documentation](systems-docs.md) — includes Torc autonomous systems case study demonstrating architecture and cross-team alignment

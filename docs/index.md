@@ -10,4 +10,4 @@ I also create **fiction and narrative work** exploring moral ambiguity, psycholo
 
 ## Notes
 Full samples and detailed work are **available upon request**.  
-[Contact me](misa.sanii689@gmail.com)
+[Contact me](mailto:misa.sanii689@gmail.com)

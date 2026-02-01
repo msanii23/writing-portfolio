@@ -9,4 +9,5 @@ I also create **fiction and narrative work** exploring moral ambiguity, psycholo
 - [Creative Writing](creative.md) — fiction and memoir exploring psychological tension and moral ambiguity
 
 ## Notes
-All examples are representative. Full work is available upon request.
+Full samples and detailed work are **available upon request**.  
+[Contact me](misa.sanii689@gmail.com)

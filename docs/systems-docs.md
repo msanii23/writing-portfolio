@@ -40,10 +40,11 @@ This made onboarding slower and troubleshooting more dependent on tribal knowled
 I created system-level documentation focused on building shared mental models rather than restating implementation details. The goal was to help engineers and cross-functional teams quickly understand *how the system behaves*, not just how individual components function.
 
 ### Key Contributions
-- Authored high-level system architecture documentation outlining core services, data flows, and dependencies
-- Clarified ownership boundaries between services and teams
-- Documented common failure scenarios and downstream impacts
-- Created operational documentation to support debugging and incident response
+- ⚙️ Authored high-level system architecture documentation outlining core services, data flows, and dependencies  
+- ⚙️ Clarified ownership boundaries between services and teams  
+- 📝 Documented common failure scenarios and downstream impacts  
+- 📝 Created operational documentation to support debugging and incident response  
+- ⭐ Improved cross-team alignment and reduced time spent clarifying system behavior
 
 ### Outcome
 The documentation improved cross-team alignment and reduced time spent clarifying system behavior during development and issue resolution. Engineers were able to onboard more quickly and reason about system behavior without relying solely on informal knowledge sharing.

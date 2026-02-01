@@ -44,10 +44,9 @@ I created system-level documentation focused on building shared mental models ra
 - ⚙️ Clarified ownership boundaries between services and teams  
 - 📝 Documented common failure scenarios and downstream impacts  
 - 📝 Created operational documentation to support debugging and incident response  
-- ⭐ Improved cross-team alignment and reduced time spent clarifying system behavior
 
 ### Outcome
-The documentation improved cross-team alignment and reduced time spent clarifying system behavior during development and issue resolution. Engineers were able to onboard more quickly and reason about system behavior without relying solely on informal knowledge sharing.
+⭐ The documentation improved cross-team alignment and reduced time spent clarifying system behavior during development and issue resolution. Engineers were able to onboard more quickly and reason about system behavior without relying solely on informal knowledge sharing.
 
 ### Takeaway
-Effective systems documentation prioritizes clarity, context, and decision-making support. By focusing on interactions, constraints, and failure modes, documentation becomes an active tool for engineering teams rather than a passive reference.
+Effective systems documentation prioritizes **clarity, context, and decision-making** support. By focusing on interactions, constraints, and failure modes, documentation becomes an active tool for engineering teams rather than a passive reference.

@@ -6,7 +6,7 @@ I focus on clarity, accuracy, and decision-ready documentation.
 I also write long-form narrative work exploring moral ambiguity, power, and psychological tension.
 
 ## Selected Writing Products
-- API Documentation
-- Systems & Distributed Documentation
-- Process & Operational Docs
-- Creative Writing
+- [API Documentation](api-writing.md)
+- [Systems & Distributed Documentation](systems-docs.md)
+- [Process & Operational Docs](process-docs.md)
+- [Creative Writing](creative.md)

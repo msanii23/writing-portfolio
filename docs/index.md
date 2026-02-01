@@ -8,7 +8,6 @@ I also create **fiction and narrative work** exploring moral ambiguity, psycholo
 ---
 
 ## Selected Writing Products
-...
 
 - [API Documentation](api-writing.md) — developer-facing API documentation emphasizing clarity and usability
 - [Systems & Distributed Documentation](systems-docs.md) — includes Torc autonomous systems case study demonstrating architecture and cross-team alignment

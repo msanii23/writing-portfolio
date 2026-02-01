@@ -5,11 +5,12 @@ I also create **fiction and narrative work** exploring moral ambiguity, psycholo
 
 ---
 ## Selected Writing Products
-
+---
 - [API Documentation](api-writing.md) — developer-facing API documentation emphasizing clarity and usability
 - [Systems & Distributed Documentation](systems-docs.md) — includes Torc autonomous systems case study demonstrating architecture and cross-team alignment
 - [Process & Operational Docs](process-docs.md) — includes Omron industrial automation case study highlighting operational clarity and compliance
 - [Creative Writing](creative.md) — fiction and memoir exploring psychological tension and moral ambiguity
 
+---
 ## Notes
 All examples are representative. Full work is available upon request.

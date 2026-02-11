@@ -8,9 +8,7 @@ The Torc AV API provides developers with tools to **monitor, control, and intera
 ---
 ## Authentication
 - **Method:** API Key  
-- **Header Format:**  
-
-Authorization: Bearer <YOUR_API_KEY>
+- **Header Format:** Authorization: Bearer <YOUR_API_KEY>
 - **Notes:** API keys are issued via the Torc Developer Portal and must be kept confidential.
 
 ---

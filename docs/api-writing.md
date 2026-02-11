@@ -34,11 +34,12 @@ The Torc AV API provides developers with tools to **monitor, control, and intera
 
 **Request Body:** 
 
-{
-  "latitude": 37.7751,
-  "longitude": -122.4185,
-  "speed_limit": 5.0
-}
+    {
+      "latitude": 37.7751,
+      "longitude": -122.4185,
+      "speed_limit": 5.0
+    }
+
 
 **Response Example:**
 

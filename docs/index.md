@@ -5,7 +5,7 @@ I also create **fiction and narrative work** exploring moral ambiguity, psycholo
 ## Selected Writing Products
 - 🖥️ [API Documentation](api-writing.md) — developer-facing API documentation emphasizing **clarity** and **usability**, with outcomes for onboarding and maintenance
 - ⚙️ [Systems & Distributed Documentation](systems-docs.md) — includes **Torc autonomous systems case study** demonstrating **architecture**, **cross-team alignment**, and impact ⭐
-- 📝 [Process & Operational Docs](process-docs.md) — includes **Omron industrial automation case study** highlighting **operational clarity**, **compliance**, and measurable outcomes ⭐
+- 📝 [Omron User Guides](process-docs.md) — Features live **Omron user guide** and **system documentation samples** demonstrating operational clarity and compliance ⭐
 - ✍️ [Creative Writing](creative.md) — fiction and memoir exploring **psychological tension**, **moral ambiguity**, and **storytelling mastery** ⭐
 
 ## Notes

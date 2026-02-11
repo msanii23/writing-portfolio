@@ -42,11 +42,15 @@ The Torc AV API provides developers with tools to **monitor, control, and intera
 
 **Response Example:**
 
-{
-  "vehicle_id": "TAV-001",
-  "status": "navigating",
-  "target_location": {"lat": 37.7751, "lon": -122.4185}
-}
+    {
+      "vehicle_id": "TAV-001",
+      "status": "navigating",
+      "target_location": {
+        "lat": 37.7751,
+        "lon": -122.4185
+      }
+    }
+
 
 ### Retrieve Diagnostic Data: GET /vehicles/{vehicle_id}/diagnostics
 

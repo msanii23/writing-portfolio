@@ -19,6 +19,7 @@ The Torc AV API provides developers with tools to **monitor, control, and intera
 **Description:** Returns the real-time operational status of a vehicle.
 
 **Response Example:**
+
 ```json
 {
   "vehicle_id": "TAV-001",
@@ -28,47 +29,4 @@ The Torc AV API provides developers with tools to **monitor, control, and intera
   "speed": 0.0
 }
 
-Send Navigation Command: POST /vehicles/{vehicle_id}/navigate
-
-Description: Sends a command for the vehicle to navigate to a specific GPS coordinate.
-
-**Request Body:** 
-{
-  "latitude": 37.7751,
-  "longitude": -122.4185,
-  "speed_limit": 5.0
-}
-**Response Example:**
-{
-  "vehicle_id": "TAV-001",
-  "status": "navigating",
-  "target_location": {"lat": 37.7751, "lon": -122.4185}
-}
-
-### Retrieve Diagnostic Data: GET /vehicles/{vehicle_id}/diagnostics
-
-**Description:** Provides detailed diagnostics including sensor health, error codes, and system alerts.
-
-**Response Example:**
-{
-  "vehicle_id": "TAV-001",
-  "diagnostics": {
-    "lidar_status": "operational",
-    "camera_status": "operational",
-    "gps_status": "operational",
-    "errors": []
-  }
-}
-**Error Codes**
-
-| Code | Meaning               |
-| ---- | --------------------- |
-| 400  | Bad Request           |
-| 401  | Unauthorized          |
-| 404  | Vehicle Not Found     |
-| 500  | Internal Server Error |
-
-### Notes
-GPS coordinates are in decimal degrees.
-Vehicles execute navigation commands sequentially; new commands override previous queued commands.
-Use the Torc Sandbox Environment for safe testing before production deployment.
+<br>

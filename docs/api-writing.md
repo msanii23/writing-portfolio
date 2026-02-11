@@ -54,7 +54,6 @@ The Torc AV API provides developers with tools to **monitor, control, and intera
 
 **Response Example:**
 
-```json
 {
   "vehicle_id": "TAV-001",
   "diagnostics": {
@@ -64,7 +63,6 @@ The Torc AV API provides developers with tools to **monitor, control, and intera
     "errors": []
   }
 }
-
 
 
 **Error Codes**

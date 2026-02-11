@@ -20,6 +20,13 @@ The Torc AV API provides developers with tools to **monitor, control, and intera
 
 **Response Example:**
 
+{
+  "vehicle_id": "TAV-001",
+  "status": "idle",
+  "battery_level": 92,
+  "location": {"lat": 37.7749, "lon": -122.4194},
+  "speed": 0.0
+}
 
 ### Send Navigation Command: POST /vehicles/{vehicle_id}/navigate
 
@@ -32,6 +39,7 @@ The Torc AV API provides developers with tools to **monitor, control, and intera
   "speed_limit": 5.0
 }
 **Response Example:**
+
 {
   "vehicle_id": "TAV-001",
   "status": "navigating",
@@ -43,6 +51,7 @@ The Torc AV API provides developers with tools to **monitor, control, and intera
 **Description:** Provides detailed diagnostics including sensor health, error codes, and system alerts.
 
 **Response Example:**
+
 {
   "vehicle_id": "TAV-001",
   "diagnostics": {
@@ -52,6 +61,7 @@ The Torc AV API provides developers with tools to **monitor, control, and intera
     "errors": []
   }
 }
+
 **Error Codes**
 
 | Code | Meaning               |

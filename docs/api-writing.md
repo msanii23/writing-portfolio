@@ -54,17 +54,17 @@ The Torc AV API provides developers with tools to **monitor, control, and intera
 
 **Response Example:**
 
-{
-  "vehicle_id": "TAV-001",
-  "diagnostics": {
-    "lidar_status": "operational",
-    "camera_status": "operational",
-    "gps_status": "operational",
-    "errors": []
-  }
-}
 
-
+    {
+      "vehicle_id": "TAV-001",
+      "diagnostics": {
+        "lidar_status": "operational",
+        "camera_status": "operational",
+        "gps_status": "operational",
+        "errors": []
+      }
+    }
+    
 **Error Codes**
 
 | Code | Meaning               |

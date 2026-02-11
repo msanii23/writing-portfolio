@@ -15,8 +15,8 @@ The Torc AV API provides developers with tools to **monitor, control, and intera
 
 ## Endpoints
 
-1. Get Vehicle Status
-GET /vehicles/{vehicle_id}/status
+1. Get Vehicle Status: GET /vehicles/{vehicle_id}/status
+
 **Description:** Returns the real-time operational status of a vehicle.
 
 **Parameters:**
@@ -25,6 +25,7 @@ GET /vehicles/{vehicle_id}/status
 | vehicle_id  | string | Yes      | Unique identifier of the vehicle |
 
 **Response Example:**
+
 ```json
 {
   "vehicle_id": "TAV-001",
@@ -34,11 +35,10 @@ GET /vehicles/{vehicle_id}/status
   "speed": 0.0
 }
 
-2. Send Navigation Command
-POST /vehicles/{vehicle_id}/navigate
-Description: Sends a command for the vehicle to navigate to a specific GPS coordinate.
+2. Send Navigation Command: POST /vehicles/{vehicle_id}/navigate
+**Description:** Sends a command for the vehicle to navigate to a specific GPS coordinate.
 
-Request Body:
+**Request Body:** 
 {
   "latitude": 37.7751,
   "longitude": -122.4185,
@@ -51,9 +51,9 @@ Request Body:
   "target_location": {"lat": 37.7751, "lon": -122.4185}
 }
 
-3. Retrieve Diagnostic Data
-GET /vehicles/{vehicle_id}/diagnostics
-Description: Provides detailed diagnostics including sensor health, error codes, and system alerts.
+3. Retrieve Diagnostic Data: GET /vehicles/{vehicle_id}/diagnostics
+
+**Description:** Provides detailed diagnostics including sensor health, error codes, and system alerts.
 
 **Response Example:**
 {

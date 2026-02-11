@@ -35,6 +35,7 @@ GET /vehicles/{vehicle_id}/status
   "location": {"lat": 37.7749, "lon": -122.4194},
   "speed": 0.0
 }
+
 2. Send Navigation Command
 POST /vehicles/{vehicle_id}/navigate
 Description: Sends a command for the vehicle to navigate to a specific GPS coordinate.
@@ -51,6 +52,7 @@ Request Body:
   "status": "navigating",
   "target_location": {"lat": 37.7751, "lon": -122.4185}
 }
+
 3. Retrieve Diagnostic Data
 GET /vehicles/{vehicle_id}/diagnostics
 Description: Provides detailed diagnostics including sensor health, error codes, and system alerts.

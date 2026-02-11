@@ -33,6 +33,7 @@ The Torc AV API provides developers with tools to **monitor, control, and intera
 **Description:** Sends a command for the vehicle to navigate to a specific GPS coordinate.
 
 **Request Body:** 
+
 {
   "latitude": 37.7751,
   "longitude": -122.4185,

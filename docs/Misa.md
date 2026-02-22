@@ -32,30 +32,3 @@ Accept: application/fhir+json
 resourceType: Patient
 id: "123"
 ```
-</> json
-
-{
-  "resourceType": "Patient",
-  "id": "123",
-  "identifier": [
-    {
-      "system": "http://hospital.example.org/mrn",
-      "value": "MRN001"
-    }
-  ],
-  "name": [
-    {
-      "family": "Doe",
-      "given": ["Jane"]
-    }
-  ],
-  "telecom": [
-    {
-      "system": "phone",
-      "value": "+1-555-555-5555",
-      "use": "home"
-    }
-  ],
-  "gender": "female",
-  "birthDate": "1985-05-15"
-}

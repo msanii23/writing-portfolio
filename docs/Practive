@@ -16,3 +16,8 @@ your code here
       "resource type":"patient"
     }
 
+
+{
+  "resourceType": "Patient",
+  "id": "123"
+}

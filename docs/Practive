@@ -12,3 +12,7 @@ your code here
   "id": "123"
 }
 ```
+    {
+      "resource type":"patient"
+    }
+

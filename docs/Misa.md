@@ -31,3 +31,8 @@ I love you, Misa! Here is what you asked for the other day!
   <birthDate value="1985-05-15"/>
 </Patient>
 ```
+
+```http
+GET /Patient/123
+Accept: application/fhir+json
+```

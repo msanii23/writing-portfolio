@@ -36,3 +36,9 @@ I love you, Misa! Here is what you asked for the other day!
 GET /Patient/123
 Accept: application/fhir+json
 ```
+
+```yaml
+resourceType: Patient
+id: "123"
+```
+

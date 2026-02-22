@@ -6,12 +6,9 @@ I love you, Misa! Here is what you asked for the other day!
   "id": "123"
 ```
 
-```
-   "ResourceType": "Patient",
-   "id": "123"
-```
-
-```
-   "resourcetype": "patient"
-   "id": "234"
+```json
+{
+  "resourceType": "Patient",
+  "id": "123"
+}
 ```

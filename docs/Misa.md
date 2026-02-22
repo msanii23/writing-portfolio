@@ -1,21 +1,13 @@
 ## Hello LOVE
 I love you, Misa! Here is what you asked for the other day!
 
-```
-  "resourceType": "Patient",
-  "id": "123"
-```
 
-```json
-{
-  "resourceType": "Patient",
-  "id": "123"
-}
-```
-
-```json
-{
-  "resourceType": "Patient",
-  "id": "123"
-}
+```xml
+<Patient>
+  <id value="123"/>
+  <name>
+    <given value="John"/>
+    <family value="Doe"/>
+  </name>
+</Patient>
 ```
